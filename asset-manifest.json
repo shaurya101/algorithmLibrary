@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/shaurya101/hotel-website-react/static/css/main.615a9929.css",
+    "main.js": "/shaurya101/hotel-website-react/static/js/main.1f846719.js",
+    "static/media/1.jpg": "/shaurya101/hotel-website-react/static/media/1.73ecbeae6973c7bcf8a8.jpg",
+    "static/media/3.jpg": "/shaurya101/hotel-website-react/static/media/3.11aacb20646ea3e387c3.jpg",
+    "static/media/2.jpg": "/shaurya101/hotel-website-react/static/media/2.3d9cf4561f0f717f3eed.jpg",
+    "static/media/room.jpg": "/shaurya101/hotel-website-react/static/media/room.95edf8cfc905d640804a.jpg",
+    "static/media/7-lg.png": "/shaurya101/hotel-website-react/static/media/7-lg.261821b60bda00983a80.png",
+    "static/media/6-lg.png": "/shaurya101/hotel-website-react/static/media/6-lg.3565d3a3ea2bd995df2e.png",
+    "static/media/4-lg.png": "/shaurya101/hotel-website-react/static/media/4-lg.f819687b967e575feaf1.png",
+    "static/media/2-lg.png": "/shaurya101/hotel-website-react/static/media/2-lg.cffbf7e52b980531d15c.png",
+    "static/media/1-lg.png": "/shaurya101/hotel-website-react/static/media/1-lg.61cfcd9d4e23aac607ad.png",
+    "static/media/8-lg.png": "/shaurya101/hotel-website-react/static/media/8-lg.51b44668c7e7fdb0fde5.png",
+    "static/media/3-lg.png": "/shaurya101/hotel-website-react/static/media/3-lg.c18b62811005901f177c.png",
+    "static/media/5-lg.png": "/shaurya101/hotel-website-react/static/media/5-lg.471c722176087c5134bd.png",
+    "static/media/7.png": "/shaurya101/hotel-website-react/static/media/7.f44a0e9c97069fdd69b8.png",
+    "static/media/6.png": "/shaurya101/hotel-website-react/static/media/6.ffb3344e2cb0b1cddba3.png",
+    "static/media/4.png": "/shaurya101/hotel-website-react/static/media/4.06d2e8e9f7dde9c51714.png",
+    "static/media/1.png": "/shaurya101/hotel-website-react/static/media/1.109453ab89c797c1ca63.png",
+    "static/media/2.png": "/shaurya101/hotel-website-react/static/media/2.209ee0a12092b55ed2ad.png",
+    "static/media/8.png": "/shaurya101/hotel-website-react/static/media/8.cd05417232ed0e97ff88.png",
+    "static/media/3.png": "/shaurya101/hotel-website-react/static/media/3.9d7f1767699602029e64.png",
+    "static/media/5.png": "/shaurya101/hotel-website-react/static/media/5.84f19999614e1d067a51.png",
+    "static/media/logo-dark.svg": "/shaurya101/hotel-website-react/static/media/logo-dark.916e25fce0a080712529b7129e2771a4.svg",
+    "static/media/logo-white.svg": "/shaurya101/hotel-website-react/static/media/logo-white.307df13a47406df0b2cdc799ae2e10b8.svg",
+    "index.html": "/shaurya101/hotel-website-react/index.html",
+    "main.615a9929.css.map": "/shaurya101/hotel-website-react/static/css/main.615a9929.css.map",
+    "main.1f846719.js.map": "/shaurya101/hotel-website-react/static/js/main.1f846719.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.615a9929.css",
+    "static/js/main.1f846719.js"
+  ]
+}
